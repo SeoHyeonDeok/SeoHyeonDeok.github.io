@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "HyeonDeokSeo's Blog"
+title                    : "SeoHyeonDeok's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "HyeonDeokSeo's Blog"
-description              : "HyeonDeokSeo's Blog"
+name                     : "SeoHyeonDeok's Blog"
+description              : "SeoHyeonDeok's Blog"
 url                      : "https://seohyeondeok.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "seohyeondeok/seohyeondeok.github.io"
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "HyeonDeokSeo"
+  name             : "SeoHyeonDeok"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : ""
