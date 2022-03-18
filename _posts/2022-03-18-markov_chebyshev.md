@@ -2,7 +2,7 @@
 layout: single
 title:  "[Probabilistic inequalities] Markov and Chebyshev inequalities"
 comments: true
-categories: [Probabilistic inequality, Concentration inequality, Probability bounds]
+tags: [Probabilistic inequality, Concentration inequality, Probability bounds]
 toc: true
 classes: wide
 last_modified_at: "2022-03-19 02:19:00 +0900"

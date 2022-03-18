@@ -2,7 +2,7 @@
 layout: single
 title:  "Probabilistic inequalities"
 comments: true
-categories: [Probabilistic inequality, Concentration inequality, Probability bounds, Martingale]
+tags: [Probabilistic inequality, Concentration inequality, Probability bounds, Martingale]
 toc: false
 classes: wide
 ---

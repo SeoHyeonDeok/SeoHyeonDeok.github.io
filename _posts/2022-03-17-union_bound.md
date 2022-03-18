@@ -2,7 +2,7 @@
 layout: single
 title:  "[Probabilistic inequalities] Union bound"
 comments: true
-categories: [Probabilistic inequality, Concentration inequality, Probability bounds]
+tags: [Probabilistic inequality, Concentration inequality, Probability bounds]
 toc: false
 classes: wide
 last_modified_at: "2022-03-17 16:19:00 +0900"
