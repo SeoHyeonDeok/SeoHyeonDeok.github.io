@@ -9,7 +9,6 @@ last_modified_at: "2022-03-17 16:19:00 +0900"
 ---
 
 # 시작
-
 union bound[^1]는 하나 이상 events의 union이 발생할 확률은 bounded되어 있다는 것을 말한다.
 다른 inequalities 유도에 기본이되는 inequality여서 가장 먼저 정리하고자한다.
 
