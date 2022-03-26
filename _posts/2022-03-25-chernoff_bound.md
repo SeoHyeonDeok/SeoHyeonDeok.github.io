@@ -9,7 +9,6 @@ last_modified_at: "2022-03-25 02:19:00 +0900"
 ---
 
 # Intro
-
 chernoff bound는markov and chebyshev inequality([이전 글]({{ site.baseurl }}{% link _posts/2022-03-18-markov_chebyshev.md %}))와 마찬가지로, tail bound에 대해 말한다. 다른 점은 chenorff bound의 경우 MGF(moment generating function)을 사용한다는 것이다[^1].
 
 # Chernoff bound
