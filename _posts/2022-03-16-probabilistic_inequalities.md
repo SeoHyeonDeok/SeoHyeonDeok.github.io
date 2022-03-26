@@ -17,7 +17,7 @@ stochastic bandit에 대한 논문을 보면, regret bound, upper confidence bou
 다음 글들에서는 각 inequality의 정의와 특징을 정리하며 stochastic bandit 논문에서의 적용 사례를 예시로 다루려고 한다.
 - [Union bound]({{ site.baseurl }}{% link _posts/2022-03-17-union_bound.md %})
 - [Markov and Chebyshev inequality]({{ site.baseurl }}{% link _posts/2022-03-18-markov_chebyshev.md %})
-- Chernoff bounds
+- [Chernoff bound]({{ site.baseurl }}{% link _posts/2022-03-25-chernoff_bound.md %})
 - Triangle inequality
 - Cauchy-Schwarz inequality
 - Jensen's inequality
